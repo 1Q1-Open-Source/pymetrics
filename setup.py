@@ -22,7 +22,7 @@ def readme():
 
 
 install_requires = [
-    'attrs>=17.4,<22',
+    'attrs>=17.4,<24',
     'conformity>=1.26.9,!=1.27.0,<2.0',
     'enum34;python_version<"3.4"',
     'six',
